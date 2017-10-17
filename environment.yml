@@ -5,3 +5,4 @@ dependencies:
   - seaborn
   - h5py
   - r-base
+  - r-irkernel
