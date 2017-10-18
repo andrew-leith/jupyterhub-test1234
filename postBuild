@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+conda install -y qiime matplotlib=1.4.3 mock nose -c bioconda

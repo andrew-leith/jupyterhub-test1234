@@ -1,7 +1,0 @@
-#!/bin/bash
-
-apt-get install r
-
-conda install -y r-ggplot2
-
-echo "test"
