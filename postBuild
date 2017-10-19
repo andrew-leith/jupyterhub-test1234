@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#python2 -m pip install ipykernel
+
+wget https://bootstrap.pypa.io/get-pip.py
+python2 get-pip.py
+which pip2.7
