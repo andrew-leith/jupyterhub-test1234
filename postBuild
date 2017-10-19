@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #python2 -m pip install ipykernel
-
+echo "begin postbuild"
 wget https://bootstrap.pypa.io/get-pip.py
 python2 get-pip.py
 which pip2.7
+echo "end postbuild"
