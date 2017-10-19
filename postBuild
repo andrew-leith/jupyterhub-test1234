@@ -7,6 +7,7 @@ echo "begin postbuild"
 #which pip2.7
 
 conda create -n qiime -c bioconda qiime
-pip install bash_kernel ; python -m bash_kernel.install
+pip install bash_kernel
+python -m bash_kernel.install
 
 echo "end postbuild"
