@@ -15,3 +15,4 @@ dependencies:
   - r-crayon=1.3*
   - r-randomforest=4.6*
   - readline
+  - ipykernel
