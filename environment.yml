@@ -1,4 +1,5 @@
 dependencies:
+  - nb_conda
   - r-base=3.3.2
   - r-irkernel=0.7*
   - r-plyr=1.8*
