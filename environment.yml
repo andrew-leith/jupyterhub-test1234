@@ -1,9 +1,9 @@
 dependencies:
   - nb_conda
-  - r-base=3.3.2
-  - r-irkernel=0.7*
+ # - r-base=3.3.2
+ # - r-irkernel=0.7*
  # - r-plyr=1.8*
-  - r-devtools=1.12*
+ # - r-devtools=1.12*
  # - r-tidyverse=1.0*
  # - r-shiny=0.14*
  # - r-rmarkdown=1.2*
