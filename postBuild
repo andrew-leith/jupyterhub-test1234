@@ -9,5 +9,6 @@ echo "begin postbuild"
 #conda create -n qiime -c bioconda qiime
 #pip install bash_kernel
 #python -m bash_kernel.install
+wget https://raw.githubusercontent.com/andrew-leith/jupyterhub-test1234/master/environment.yml
 
 echo "end postbuild"
