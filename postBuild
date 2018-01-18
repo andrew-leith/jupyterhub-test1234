@@ -5,7 +5,7 @@ echo "begin postbuild"
 #wget https://bootstrap.pypa.io/get-pip.py
 #python2 get-pip.py
 #which pip2.7
-
+pwd
 #conda create -n qiime -c bioconda qiime
 #pip install bash_kernel
 #python -m bash_kernel.install
